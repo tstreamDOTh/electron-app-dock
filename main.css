@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(90, 233, 83, 0.475);
+}
+
+.flex-container {
+    display: flex;
+  }
+  
+  .app {
+      size: 1.2;
+    background-color: rgb(48, 164, 252);
+    height: 80px;
+    width: 80px;
+    margin: auto;
+    align-content: center;
+    font-size: 30px;
+    align-items: center;
+  }
+  .app:hover {
+    background-color: rgba(90, 233, 83, 0.475);
+}
+  
